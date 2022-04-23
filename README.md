@@ -1,3 +1,3 @@
 # SiDjackWeb
-my website
-My website
+Welcome to my Website. not too much here yet
+
